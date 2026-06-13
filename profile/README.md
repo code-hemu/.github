@@ -7,4 +7,17 @@ Our goal is to provide new programming-related articles more quickly. Stay with 
 
 You can [read more about CodeHemu](https://www.codehemu.in/p/about.html).
 
+## Become a Sponsor to CodeHemu
+In 2024,  Indian developers  started CodeHemu.in with a simple mission. They want to make programming education accessible and completely free for everyone.
 
+Currently, CodeHemu.in is developing as a learning community that helps developers by providing hands-on guidance. Together, we have built:
+
+💻 100+ Free coding tutorials
+📚 Practical guides on programming
+🎒 20s of free YouTube video on CSS art
+
+We are entirely donor-supported and operate very frugally.
+
+Last year our budget was only about $100. And yet we served more than 20 learning content.
+
+[Sponsor us on GitHub](https://github.com/sponsors/code-hemu) or other ways to donate are unavailable.

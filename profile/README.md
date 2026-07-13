@@ -20,4 +20,6 @@ Currently, CodeHemu.in is developing as a learning community that helps develope
 
 We are entirely donor-supported and operate very frugally.
 
-Last year our budget was only about $100. And yet we served more than 20 learning content.
+Last year, our budget was only about **$100**, yet we delivered **50+ learning resources**, developed **open-source packages**, and released **browser extensions**. 
+
+- [Sponsor us on GitHub](https://github.com/sponsors/codehemu) 

@@ -22,4 +22,4 @@ We are entirely donor-supported and operate very frugally.
 
 Last year, our budget was only about **$100**, yet we delivered **50+ learning resources**, developed **open-source packages**, and released **browser extensions**. 
 
-- [Sponsor us on GitHub](https://github.com/sponsors/codehemu) 
+- [Sponsor us on GitHub](https://github.com/sponsors/code-hemu) 

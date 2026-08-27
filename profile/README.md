@@ -20,8 +20,8 @@ Currently, CodeHemu.in is developing as a learning community that helps develope
 
 We are entirely donor-supported and operate very frugally.
 
+[![CodeHemu Brunch Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO6uU36RQSyVKYhiS7x1p6LaIP-_OfTYFQggdnZkrFx3ynD8q7Dy3RB2i2mtnLSH5QDb4ZXlfg3_6PiEVzMrq_Cjq0s5kKvomcCd_N3dv0aI3l-E-16vaNho1Jr3m-UQFXGGP2c7xWgd5xb_q9CXLXm1gDy49GMYayXe9O_PV-SxDOTKT5sZPE4umjA64/s1600/codehemu_brunch.png)](https://www.codehemu.in/)
+
 Last year, our budget was only about **$100**, yet we delivered **50+ learning resources**, developed **open-source packages**, and released **browser extensions**. 
 
 - [Sponsor us on GitHub](https://github.com/sponsors/code-hemu) 
-
-[![CodeHemu Tree Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLWvPdgItDUjBLOZ1NFO97QtacD4GiMuxvFzvQmRl6Fd4riDAL52x-zqJKxjbEOajby4Rmj_VNdYTeSwJvQG84kWhmmeRVoLyl5Im9V9JoMTP406ua9PZR6C3sEQmJgJQAxjAbURQNAyRpbumPdaUHJdTTzuy-2mQp5FDYXvNATwpTllRc3YtTIKACAjU/s1600/codehemu_tree.PNG)](https://www.codehemu.in/)

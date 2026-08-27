@@ -18,6 +18,8 @@ Currently, CodeHemu.in is developing as a learning community that helps develope
 
 🎒 20s of free YouTube video on CSS art
 
+Through  [Addonova](https://github.com/addonova/), [Guchho](https://github.com/guchho/),  [NeedEvery](https://github.com/needevery/), and [AdSkip](https://github.com/adskip/), we create free learning resources, useful software, browser extensions, and developer infrastructure designed to help people **learn, build, and share**.
+
 We are entirely donor-supported and operate very frugally.
 
 Last year, our budget was only about **$100**, yet we delivered **50+ learning resources**, developed **open-source packages**, and released **browser extensions**. 

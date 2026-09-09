@@ -24,5 +24,14 @@ Last year, our budget was only about **$100**, yet we delivered **50+ learning r
 
 - [Sponsor us on GitHub](https://github.com/sponsors/code-hemu)
 
-[![CodeHemu Brunch Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO6uU36RQSyVKYhiS7x1p6LaIP-_OfTYFQggdnZkrFx3ynD8q7Dy3RB2i2mtnLSH5QDb4ZXlfg3_6PiEVzMrq_Cjq0s5kKvomcCd_N3dv0aI3l-E-16vaNho1Jr3m-UQFXGGP2c7xWgd5xb_q9CXLXm1gDy49GMYayXe9O_PV-SxDOTKT5sZPE4umjA64/s1600/codehemu_brunch.png)](https://www.codehemu.in/)
 
+
+<p align="center">
+  <a href="https://www.codehemu.in/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkveUS_0th6BiK_pTMVp2rhpNXGJV8dmX45jLeSnFVEWu7pu1R69JRzDrl0N34Hq0_7h_V92CDxg0QRBy0uYawmChKsHLHSlr63ptZT1EV0zNxFliTteo46g6p9F0RJVovc_O4KtONf6ifBJKUZMSykwgM5xcXbJCaoYZapZrd4pD0t-yGwJ-txQi4znY/s1600/codehemu_brunch_dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMy3NHMlOE1y-eY2mzM41bSP2zishn1NJ24WTxmS8gXK-dwoYLirO405i8EkpqzfX2dIGHjds9Dyd5j1uIz4PId8XS-tgIwuewoa3ETRCrzRhj10XmhF1MBtsyMYR24QtrOloPC_44AtTYPoi6aal7OdGNKE9WPKCKqujW7minHRG7CAI8gqAt6dcKgVw/s1600/codehemu_brunch_light.png" />
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMy3NHMlOE1y-eY2mzM41bSP2zishn1NJ24WTxmS8gXK-dwoYLirO405i8EkpqzfX2dIGHjds9Dyd5j1uIz4PId8XS-tgIwuewoa3ETRCrzRhj10XmhF1MBtsyMYR24QtrOloPC_44AtTYPoi6aal7OdGNKE9WPKCKqujW7minHRG7CAI8gqAt6dcKgVw/s1600/codehemu_brunch_light.png" alt="CodeHemu Brunch Banner"/>
+    </picture>
+  </a>
+</p>

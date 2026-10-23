@@ -24,8 +24,6 @@ Last year, our budget was only about **$100**, yet we delivered **50+ learning r
 
 - [Sponsor us on GitHub](https://github.com/sponsors/code-hemu)
 
-
-
 <p align="center">
   <a href="https://www.codehemu.in/">
     <picture>
@@ -34,4 +32,15 @@ Last year, our budget was only about **$100**, yet we delivered **50+ learning r
       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMy3NHMlOE1y-eY2mzM41bSP2zishn1NJ24WTxmS8gXK-dwoYLirO405i8EkpqzfX2dIGHjds9Dyd5j1uIz4PId8XS-tgIwuewoa3ETRCrzRhj10XmhF1MBtsyMYR24QtrOloPC_44AtTYPoi6aal7OdGNKE9WPKCKqujW7minHRG7CAI8gqAt6dcKgVw/s1600/codehemu_brunch_light.png" alt="CodeHemu Brunch Banner"/>
     </picture>
   </a>
+</p>
+
+<p align="center">
+  <b>Explore the CodeHemu Ecosystem of Open Source Projects.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/addonova">Addonova</a> |
+  <a href="https://github.com/guchho">Guchho</a> |
+  <a href="https://github.com/NeedEvery">NeedEvery</a> |
+  <a href="https://github.com/AdSkip">AdSkip</a>
 </p>

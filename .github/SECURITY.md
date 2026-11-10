@@ -1,51 +1,62 @@
 # Security Policy
 
-We take the security of Addonova and the projects in this organization seriously. Thank you for helping keep our community and users safe.
-
 ## Supported Versions
 
-Security fixes are provided for the latest release of each actively maintained project. Projects that are archived, deprecated, or unmaintained are not supported unless stated otherwise in their repository.
+Security fixes are applied to the latest release on the default branch of each
+repository owned by the [Guchho](https://github.com/code-hemu) organization. Older
+versions may not receive security patches; please update when possible.
+
+| Version       | Supported          |
+| ------------- | ------------------ |
+| latest (main) | :white_check_mark: |
+| older releases| :x:                |
 
 ## Reporting a Vulnerability
 
-**Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
+**Please do not report security vulnerabilities through public GitHub issues.**
 
-Report vulnerabilities privately using GitHub's [private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability):
+Instead, report them privately using one of the following channels:
 
-1. Open the **Security** tab of the affected repository.
-2. Select **Report a vulnerability**.
-3. Provide a detailed description, reproduction steps, affected versions, and any relevant proof of concept.
+- **GitHub Security Advisories**: Prefer [reporting a vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/reporting-a-vulnerability-in-a-repository) directly on the affected repository (Security tab → Report a vulnerability).
+- **Email**: hello@codehemu.in
 
-If private reporting is not enabled for a repository, contact the maintainers directly and ask for a secure channel before sharing details.
+Include as much of the following as you can:
 
-## What to Include
+- A description of the vulnerability and its potential impact
+- Steps to reproduce the issue (PoC, test case, or affected commands/config)
+- Affected version(s) and platform(s)
+- Any known mitigations
 
-- A clear description of the issue and its potential impact.
-- Steps to reproduce, including a minimal proof of concept if possible.
-- Affected versions, platforms, and browsers.
-- Any suggested remediation or mitigations.
-- Whether you intend to disclose the issue publicly and, if so, your preferred timeline.
+## What to expect
 
-## Our Commitment
+- You will receive an acknowledgement as soon as possible, typically within **72 hours**.
+- We will work with you to understand and validate the issue.
+- A fix will be prepared and released, and public disclosure coordinated with you once a patch is available — unless you prefer otherwise.
+- Credit will be given to reporters who wish to be acknowledged (unless you prefer to remain anonymous).
 
-- We will acknowledge your report as soon as possible, typically within a few business days.
-- We will investigate and keep you informed of progress.
-- We will credit reporters in the advisory unless you prefer to remain anonymous.
-- We ask that you give us reasonable time to resolve the issue before public disclosure.
+## Scope
+
+This policy applies to security vulnerabilities in software maintained by the
+Guchho organization, such as the bundler, compiler, and associated tooling.
+
+Out of scope examples:
+
+- Vulnerabilities in third-party dependencies that do not affect Guchho's usage (report these upstream instead).
+- Denial-of-service or resource-exhaustion attacks requiring unrealistic input volume.
+- Issues requiring physical access to a user's machine.
+- Social engineering, phishing, or physical attacks.
+
+## Preferred Languages
+
+English is preferred for all communications.
 
 ## Safe Harbor
 
-We consider security research conducted in good faith to be authorized and welcome. We will not pursue legal action against researchers who:
+We consider security research conducted in good faith and in accordance with
+this policy to be authorized. We will not pursue legal action against
+researchers who:
 
-- Make a good-faith effort to avoid privacy violations, data loss, and disruption of services.
-- Only interact with accounts and systems they own or have explicit permission to test.
-- Report findings privately and give us reasonable time to respond before disclosure.
-
-## Out of Scope
-
-The following are generally out of scope:
-
-- Vulnerabilities in third-party dependencies that are already publicly known and patched.
-- Issues requiring physical access to a user's device.
-- Social engineering, spam, or denial-of-service attacks against project infrastructure.
-- Reports generated solely by automated scanners without evidence of a real, exploitable issue.
+- Make a good-faith effort to avoid privacy violations, data destruction, and
+  service disruption.
+- Report findings promptly and keep them confidential until a fix is available.
+- Do not exploit the vulnerability beyond what is needed to demonstrate it.

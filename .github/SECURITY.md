@@ -3,7 +3,7 @@
 ## Supported Versions
 
 Security fixes are applied to the latest release on the default branch of each
-repository owned by the [Guchho](https://github.com/code-hemu) organization. Older
+repository owned by the [CodeHemu](https://github.com/code-hemu) organization. Older
 versions may not receive security patches; please update when possible.
 
 | Version       | Supported          |
